@@ -26,4 +26,4 @@
 
 ## 看不懂想要图文教程?
 - 看看隔壁那个用github编译twrp教程，与这个大同小异端
-- https://github.com/Xpsoted/Action-Recovery-builder/blob/main/README.md
+- https://github.com/momo54181/Action-Recovery-builder#readme
