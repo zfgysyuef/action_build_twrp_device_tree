@@ -1,4 +1,4 @@
-# TWRP Device Tree生成工具
+﻿# TWRP Device Tree生成工具
 - 这个工具怎么用？
 - 1.首先你要搞到你的设备任意一个可以开机系统的
 - boot.img AB分区 
@@ -27,3 +27,6 @@
 ## 看不懂想要图文教程?
 - 看看隔壁那个用github编译twrp教程，与这个大同小异端
 - https://github.com/momo54181/Action-Recovery-builder#readme
+
+注意：如果安卓版本低于9.0，需要手动解包recovery.img并在defxx.prop内添加
+ro.product.first_api_level=(安卓api版本号，如安卓6.0是23)
